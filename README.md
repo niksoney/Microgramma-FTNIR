@@ -1,45 +1,45 @@
-# Análise FT-NIR do clado Scaly de Microgramma
+# FT-NIR Analysis of the Scaly clade of Microgramma
 
 [![Journal](https://img.shields.io/badge/Journal-Journal%20of%20Plant%20Research-blue)](https://www.springer.com/journal/10265)
 [![Status](https://img.shields.io/badge/Status-Under%20Review-orange)]()
 
-Este repositório contém os scripts de análise desenvolvidos para o estudo de espectroscopia no infravermelho próximo com transformada de Fourier (FT-NIR) aplicado a espécies do clado Scaly do gênero *Microgramma*.
+This repository contains the analysis scripts developed for the study of Fourier-transform near-infrared (FT-NIR) spectroscopy applied to species of the Scaly clade of the genus *Microgramma*.
 
-O estudo foi submetido ao **Journal of Plant Research** com o ID de manuscrito **JPRE-D-25-00116R1**.
-
----
-
-## 📂 Estrutura do Repositório
-
--   `/Scripts`: Contém todos os scripts em R utilizados para as análises estatísticas e de modelagem dos dados espectrais.
-
-## 📊 Dados e Figuras
-
-Devido ao tamanho dos arquivos e às políticas de armazenamento do GitHub, as **tabelas de dados brutos**, **figuras** e **arquivos complementares** estão hospedados no OneDrive.
-
-Os dados estão atualmente sob embargo e serão tornados públicos após a publicação do artigo.
-
-🔗 **[Acessar Dados e Figuras no OneDrive](https://1drv.ms/f/c/3DED7C5EF3CA42DA/AtpCyvNefO0ggD3hTAAAAAA?e=IbfrQg)**
+The study has been submitted to the **Journal of Plant Research** with the manuscript ID **JPRE-D-25-00116R1**.
 
 ---
 
-## ✨ Destaques da Análise
+## 📂 Repository Structure
 
-Este estudo emprega uma combinação de técnicas estatisticas para extrair informações relevantes dos espectros FT-NIR. Os principais métodos incluem:
+-   `/Scripts`: Contains all R scripts used for statistical analysis and modeling of the spectral data.
 
--   **Pré-processamento de Espectros:** Aplicação de `Standard Normal Variate (SNV)` para correção espectral, visando a atenuação de ruídos e eliminação de variações de linha de base nos espectros FT-NIR.
+## 📊 Data and Figures
+
+Due to file size and GitHub's storage policy, the **raw data tables**, **figures**, and **supplementary files** are hosted on OneDrive.
+
+The data are currently under embargo and will be made public upon the article's publication.
+
+🔗 **[Access Data and Figures on OneDrive](https://1drv.ms/f/c/3DED7C5EF3CA42DA/AtpCyvNefO0ggD3hTAAAAAA?e=IbfrQg)**
+
+---
+
+## ✨ Analysis Highlights
+
+This study employs a combination of statistical techniques to extract relevant information from the FT-NIR spectra. The main methods include:
+
+-   **Spectral Pre-processing:** Application of `Standard Normal Variate (SNV)` for spectral correction, aiming to reduce noise and eliminate baseline variations in the FT-NIR spectra.
 .
--   **Análise de Componentes Principais (PCA):** Para exploração e visualização de agrupamentos naturais nos dados.
--   **Modelagem Preditiva:** Utilização de `Partial Least Squares Discriminant Analysis` (PLS-DA) para construir modelos de classificação.
--   **Visualização de Dados:** Criação de gráficos e figuras de alta qualidade com o pacote `ggplot2`.
--   **Dimorfia folia:** Testamos como os dados do NIR diferenciam tipos de frondes (fertéis e estéreis)
+-   **Principal Component Analysis (PCA):** For exploring and visualizing natural groupings in the data.
+-   **Predictive Modeling:** Use of `Partial Least Squares Discriminant Analysis` (PLS-DA) to build classification models.
+-   **Data Visualization:** Creation of high-quality graphs and figures with the `ggplot2` package.
+-   **Leaf Dimorphism:** We tested how NIR data differentiate frond types (fertile and sterile).
 
 ---
 
-## 🤝 Contato e Colaboração
+## 🤝 Contact and Collaboration
 
-Dúvidas, sugestões ou interesse em colaborações são muito bem-vindos!
+Questions, suggestions, or interest in collaborations are very welcome!
 
--   **Autor Principal:** [Niksoney A. Mendonça]
--   **E-mail:** [niksoneyazevedo2017@gmail.com]
--   **Lab Website:** [[Link para o site do seu laboratório, se houver](https://niksoney.github.io/bio/index.html#sobre)]
+-   **Main Author:** Niksoney A. Mendonça
+-   **E-mail:** niksoneyazevedo2017@gmail.com
+-   **Lab Website:** https://niksoney.github.io/bio/index.html#sobre
