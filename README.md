@@ -19,20 +19,27 @@ Devido ao tamanho dos arquivos e às políticas de armazenamento do GitHub, as *
 
 Os dados estão atualmente sob embargo e serão tornados públicos após a publicação do artigo.
 
-🔗 **[Acessar Dados e Figuras no OneDrive](https://onedrive.live.com/?id=%2Fpersonal%2F3ded7c5ef3ca42da%2FDocuments%2FVida%20acad%C3%AAmica%20e%20pessoal%20%2D%20Niksoney&sortField=LinkFilename&isAscending=true&viewid=9bc3ad4c%2Dd27b%2D4914%2D85cf%2D106a99d971d7)**
+🔗 **[Acessar Dados e Figuras no OneDrive](https://1drv.ms/f/c/3DED7C5EF3CA42DA/AtpCyvNefO0ggD3hTAAAAAA?e=IbfrQg)**
 
 ---
 
-## 📄 Como Citar
+## ✨ Destaques da Análise
 
-Até que o artigo seja publicado, por favor, cite este repositório. Após a publicação, utilize a citação do artigo.
+Este estudo emprega uma combinação de técnicas estatisticas para extrair informações relevantes dos espectros FT-NIR. Os principais métodos incluem:
 
-```
-[Seu Nome/Autor Principal], [Ano]. "Microgramma-Scaly—FTNIR: Analysis Scripts". GitHub Repository. https://github.com/[seu-usuario]/[nome-do-repositorio]
-```
+-   **Pré-processamento de Espectros:** Aplicação de `Standard Normal Variate (SNV)` para correção espectral, visando a atenuação de ruídos e eliminação de variações de linha de base nos espectros FT-NIR.
+.
+-   **Análise de Componentes Principais (PCA):** Para exploração e visualização de agrupamentos naturais nos dados.
+-   **Modelagem Preditiva:** Utilização de `Partial Least Squares Discriminant Analysis` (PLS-DA) para construir modelos de classificação.
+-   **Visualização de Dados:** Criação de gráficos e figuras de alta qualidade com o pacote `ggplot2`.
+-   **Dimorfia folia:** Testamos como os dados do NIR diferenciam tipos de frondes (fertéis e estéreis)
 
-## 📜 Licença
+---
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+## 🤝 Contato e Colaboração
 
-*(Você pode escolher outra licença, como a CC-BY para dados, se preferir. A licença MIT é uma boa opção para código.)*
+Dúvidas, sugestões ou interesse em colaborações são muito bem-vindos!
+
+-   **Autor Principal:** [Niksoney A. Mendonça]
+-   **E-mail:** [niksoneyazevedo2017@gmail.com]
+-   **Lab Website:** [[Link para o site do seu laboratório, se houver](https://niksoney.github.io/bio/index.html#sobre)]
