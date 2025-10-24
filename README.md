@@ -11,15 +11,16 @@ The study has been submitted to the **Journal of Plant Research** with the manus
 
 ## 📂 Repository Structure
 
--   `/Scripts`: Contains all R scripts used for statistical analysis and modeling of the spectral data.
+- `/Scripts`: R scripts used for morphometric analysis, spectral processing, and phylogenetic modeling.   
+- `/Figures`: Includes only the figures and graphical outputs generated from the analyses described in the manuscript.
+- `/Data`: The complete raw and processed datasets will be hosted on OneDrive due to their large file size. 
+
+---
 
 ## 📊 Data and Figures
 
-Due to file size and GitHub's storage policy, the **raw data tables**, **figures**, and **supplementary files** are hosted on OneDrive.
-
-The data are currently under embargo and will be made public upon the article's publication.
-
-🔗 **[Access Data and Figures on OneDrive](https://1drv.ms/f/c/3DED7C5EF3CA42DA/AtpCyvNefO0ggD3hTAAAAAA?e=jjbLXV)**
+The **raw datasets**, **statistical outputs**, and **high-resolution figures** generated in this study are currently under embargo.  
+Upon formal publication of the article, **all materials will be made publicly available through a OneDrive link**, which will be provided here once the embargo period ends.
 
 ---
 
